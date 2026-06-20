@@ -6,32 +6,17 @@
   </p>
 </div>
 
----
-
 ### Keep Learning, Keep Growing
 
 - Always learning, always growing
 - Keep exploring new technologies and tools
 - Strive for excellence in every line of code
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangxinpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yangxinpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
 ### Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yangxinpu&show_icons=true&theme=tokyonight&locale=en&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
 </div>
-
----
 
 ### Skills
 
@@ -52,20 +37,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-### Get in Touch
-
-<div align="center">
-  <a href="https://github.com/yangxinpu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yangxinpu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
