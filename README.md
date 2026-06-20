@@ -8,14 +8,14 @@
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23333333)  ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2342b883?style=flat&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-%23087ea4?style=flat&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat&logo=vite&logoColor=white)
- ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%232a2a2a?style=flat&logo=bun&logoColor=%23fbf0df) ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=%23333333)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%23f69220?style=flat&logo=pnpm&logoColor=%23333333) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23333333) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)<br>
+![Vue.js](https://img.shields.io/badge/Vue.js-%2342b883?style=flat&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-%23087ea4?style=flat&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat&logo=vite&logoColor=white)<br>
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%232a2a2a?style=flat&logo=bun&logoColor=%23fbf0df) ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=%23333333)<br>
+![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%23f69220?style=flat&logo=pnpm&logoColor=%23333333)<br>
 
 <br>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 350" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 350" width="900" height="350" preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="lg1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#19fac6" stop-opacity="0"/>
