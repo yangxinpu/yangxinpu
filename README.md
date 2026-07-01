@@ -2,10 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=19fac6&width=900&lines=Hi+I'm+NaiLuo;A+Frontend+enthusiast%2C+but+not+limited+to+frontend;Keep+Learning%2C+Keep+Growing!" alt="Typing SVG" /></a>
 </div>
 
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yangxinpu&show_icons=true&theme=tokyonight&locale=en&hide_border=true&layout=compact&hide_title=true" alt="Top Languages" width="40%" />
-
 ### Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23333333) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)<br>
